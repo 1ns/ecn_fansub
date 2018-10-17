@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[branch "master"]
+[remote "origin"]
+	url = git@github.com:1ns/ecn_fansub.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
